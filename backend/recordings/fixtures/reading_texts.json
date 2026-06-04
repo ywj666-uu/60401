@@ -1,0 +1,82 @@
+[
+  {
+    "model": "recordings.readingtext",
+    "pk": 1,
+    "fields": {
+      "title": "日常问候",
+      "content": "你好，今天天气怎么样？我想去市场买点菜，你要一起去吗？",
+      "difficulty": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 2,
+    "fields": {
+      "title": "北风和太阳",
+      "content": "北风和太阳争论谁的力量更大。他们看到一个旅行者走过来，就决定谁能让旅行者脱掉外套，谁就更强大。北风先来，使劲地吹，可是风越大，旅行者就把外套裹得越紧。",
+      "difficulty": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 3,
+    "fields": {
+      "title": "绕口令-四和十",
+      "content": "四是四，十是十，十四是十四，四十是四十。谁能说准四十四，就请谁来试一试。",
+      "difficulty": 3,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 4,
+    "fields": {
+      "title": "家乡介绍",
+      "content": "请用你的方言介绍一下你的家乡，包括地理位置、特色美食和当地风俗。说说你最喜欢家乡的什么地方。",
+      "difficulty": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 5,
+    "fields": {
+      "title": "数字与日期",
+      "content": "一二三四五六七八九十，百千万亿。今天是星期四，明天是星期五。一斤苹果三块五毛钱。",
+      "difficulty": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 6,
+    "fields": {
+      "title": "绕口令-吃葡萄",
+      "content": "吃葡萄不吐葡萄皮，不吃葡萄倒吐葡萄皮。",
+      "difficulty": 3,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 7,
+    "fields": {
+      "title": "日常对话",
+      "content": "你吃饭了吗？今天中午我们一起去食堂吃饭吧。听说新开了一家面馆，味道还不错。",
+      "difficulty": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "recordings.readingtext",
+    "pk": 8,
+    "fields": {
+      "title": "天气描述",
+      "content": "今天早上下了一场大雨，路上到处都是积水。下午天晴了，太阳出来了，彩虹也出来了。晚上可能还会有雷阵雨。",
+      "difficulty": 2,
+      "is_active": true
+    }
+  }
+]
